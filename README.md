@@ -1,8 +1,49 @@
 # Logos--API
 
+<p align="center">  
+ <a href="https://madhava.netlify.app/">
+  <img src="https://logos-api-production.up.railway.app/logo?name=React" />
+ </a>
+ 
+ <a href="https://madhava.netlify.app/">
+  <img src="https://logos-api-production.up.railway.app/logo?name=javaScript" />
+ </a>
+ 
+  <a href="https://madhava.netlify.app/">
+  <img src="https://logos-api-production.up.railway.app/logo?name=typeScript" />
+ </a>
+ 
+ <a href="https://madhava.netlify.app/">
+ <img src="https://logos-api-production.up.railway.app/logo?name=redux" />
+ </a>
+ 
+  <a href="https://madhava.netlify.app/">
+  <img src="https://logos-api-production.up.railway.app/logo?name=Next.js" />
+ </a>
+ 
+  
+  <a href="https://madhava.netlify.app/">
+ <img src="https://logos-api-production.up.railway.app/logo?name=cSS3" />
+ </a>
+ 
+ <a href="https://madhava.netlify.app/">
+ <img src="https://logos-api-production.up.railway.app/logo?name=Node.js" />
+ </a>
 
-<img src="https://logos-api-production.up.railway.app/logo?name=redux" />
-<img src="https://logos-api-production.up.railway.app/logo?name=express" />
-<img src="https://logos-api-production.up.railway.app/logo?name=Node.js" />
-<img src="https://logos-api-production.up.railway.app/logo?name=React" />
+ <a href="https://madhava.netlify.app/">
+ <img src="https://logos-api-production.up.railway.app/logo?name=express" />
+ </a>
 
+
+ <a href="https://madhava.netlify.app/">
+ <img src="https://logos-api-production.up.railway.app/logo?name=postgreSQL" />
+ </a>
+ 
+ <a href="https://madhava.netlify.app/">
+   <img src="https://logos-api-production.up.railway.app/logo?name=Vim" />
+ </a>
+ 
+ <a href="https://madhava.netlify.app/">
+ <img src="https://logos-api-production.up.railway.app/logo?name=Git" />
+ </a>
+</p>
