@@ -103,7 +103,7 @@ app.get("/logo", (req, res) => {
   </svg>`;
 
   res.setHeader("Content-Type", "image/svg+xml");
-  return res.send(modifiedSvg);
+  return res.send(svg);
 });
 
 module.exports = app;
