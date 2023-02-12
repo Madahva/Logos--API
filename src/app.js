@@ -43,7 +43,8 @@ app.get("/logo", (req, res) => {
 
   let modifiedSvg = logo.svg.replace(/<path /, `<path fill="#${logo.hex}" `);
   res.setHeader("Content-Type", "image/svg+xml");
-  return res.send(modifiedSvg);
+  let html = `<div><p>${logo.title}</p>${modifiedSvg}</div>`;
+  return res.send(html);
 });
 
 module.exports = app;
