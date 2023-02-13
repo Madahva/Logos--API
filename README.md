@@ -2,7 +2,7 @@
 
 <p align="center">  
  <a href="https://madhava.netlify.app/">
-  <img src="https://logos-api-production.up.railway.app/logo?name=React" />
+  <img src="https://logos-api-production.up.railway.app/logo?name=react&width=200&animation=true" />
  </a>
  
  <a href="https://madhava.netlify.app/">
