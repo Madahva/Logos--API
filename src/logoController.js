@@ -22,7 +22,7 @@ const createLogo = (req, res) => {
     return res.status(404).send({ error: "Logo not found" });
   }
 
-  let svg = `<svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
+  let svg = `<svg height="60" width="${width}" xmlns="http://www.w3.org/2000/svg">
         <style>
         
          foreignObject svg ${
